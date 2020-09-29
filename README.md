@@ -10,4 +10,4 @@ This is a Machine Learning Project which aims to predict if a subject will repay
 6. Reporting: The reporting/interpretation of the results in this project is carried with detail throughout, after each code and output for better understanding of the analysis done.
 
 
-- Tarun.S.Sarode
+Tarun.S.Sarode
